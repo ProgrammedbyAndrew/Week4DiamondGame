@@ -1,0 +1,49 @@
+
+body {
+	background-image: url("../images/background.jpg");
+}
+
+.jumbotron {
+	background-color: gray;
+}
+
+#gameSection, #scoreSection {
+	background-color: green;
+	margin-left: auto;
+    margin-right: auto;
+    
+}
+
+
+
+#buttonSection {
+
+
+	padding: 0px;
+	padding-top: 40px;
+	padding-bottom: 20px;
+}
+
+
+h1, h2, h3 {
+	font-family: 'arial';
+}
+
+p {
+	font-family: 'Ek Mukta', sans-serif;
+}
+
+.numberBox {
+	font-size: 40px;
+	margin: 20px;
+}
+
+
+.icons {
+	display: inline-block;
+  	max-width: 80px;
+  	max-height: 80px;
+  	width: auto;
+  	height: auto;
+  	margin:10px;
+}
